@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC>
+<html>
+<head>
+<title>Kendra Fitzgerald Christmas</title>
+</head>
+
+
+<style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .topnav {
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    .topnav a {
+      float: left;
+      color: rgb(150, 209, 224);
+      text-align: center;
+      padding: 20px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    .topnav a:hover {
+      background-color: rgb(150, 209, 224);
+      color: white;
+    }
+    
+    .topnav a.active {
+      background-color: rgb(150, 209, 224);
+      color: white;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <div class="topnav">
+      <a href="file:///Users/kendrafitzgerald/Desktop/Project%201/Home.html">Kendra Fitzgerald</a>
+      <a class="active" href="file:///Users/kendrafitzgerald/Desktop/Project%201/Christmas.html">Christmas</a>
+      <a href="file:///Users/kendrafitzgerald/Desktop/Project%201/Contact.html">Contact</a>
+    </div>
+ 
+    
+    </body>
+
+
+
+<style>
+body {
+  background-color: rgb(218, 218, 218);
+}
+</style>
+
+<head>
+    <style>
+    .card {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      max-width: 220px;
+      margin: auto;
+      text-align: center;
+      font-family: Perpetua;
+    }
+    
+    .price {
+      color: rgb(85, 85, 85);
+      font-size: 15px;
+    }
+
+    .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(150, 209, 224);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    }
+
+    .card button:hover {
+    opacity: 0.7;
+    }
+
+    /* Create five equal columns that floats next to each other */
+    .column {
+    float: left;
+    width: 15%;
+    padding: 10px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    
+    </style>
+</head>
+  
+    <body>
+    
+    <div class="row">
+        <div class="column">
+        <div class="card">
+            <img src="MV7N2.jpeg" alt="Airpods" style="width:100%">
+            <h3>Airpods</h3>
+            <p class="price">$159.00</p>
+            <p>with charging case<br>white</p>
+            <a style="text-decoration: none;" href="https://www.apple.com/shop/product/MV7N2/airpods-with-charging-case" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+        
+    </body>
+
+
+    <body>
+        
+        <div class="column">
+        <div class="card">
+            <img src="vans.jpeg" alt="Vans" style="width:100%">
+            <h3>Checkered Vans</h3>
+            <p class="price">$50.00</p>
+            <p>color: <small>True White/True White</small><br>size: 8</p>
+            <a style="text-decoration: none;" href="https://www.vans.com/shop/checkerboard-slip-on-true-white-true-white" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+                
+    </body>
+
+
+    <body>
+        
+        <div class="column">
+        <div class="card">
+            <img src="moroccanoil.jpg" alt="Morrocanoil" style="width:100%">
+            <h3>Moroccanoil</h3>
+            <p class="price">$48.00</p>
+            <p>Hello Hydration Set<br> *IF sold out, <a href="file:///Users/kendrafitzgerald/Desktop/Project%201/SOLDOUTMoroccanoil.html" target="_blank">click here.</a></p>
+            <a style="text-decoration: none;" href="https://www.sephora.com/product/hello-hydration-set-P450084?icid2=products%20grid:p450084:product" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+    
+    </body>
+
+
+    <body>
+        
+        <div class="column">
+        <div class="card">
+            <img src="krug.jpg" alt="Steve Krug" style="width:100%">
+            <h3>Steve Krug</h3>
+            <p class="price">$30.49</p>
+            <p>Don't Make Me Think<br> Paperback</p>
+            <a style="text-decoration: none;" href="https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?gclid=CjwKCAiA_MPuBRB5EiwAHTTvMSt2plgCuPhEJHo4r0WEFoVBgbEQdhhyy6ROi4zpo8zEd9oyo4NDUxoCFSEQAvD_BwE&hvadid=174269093514&hvdev=c&hvlocphy=9031250&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=16792177600509071659&hvtargid=kwd-5879857053&hydadcr=24656_9648981&keywords=dont%27+make+me+think&qid=1573984576&sr=8-1" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+    
+    </body>
+    
+    <body>
+        
+        <div class="column">
+        <div class="card">
+            <img src="libre.jpg" alt="YSL" style="width:100%">
+            <h3>Yves Saint Laurent</h3>
+            <p class="price">$78.00</p>
+            <p>Libre Eau de Parfum<br> 1 ox./30 mL</p>
+            <a style="text-decoration: none;" href="https://www.sephora.com/product/libre-eau-de-parfum-P448102?icid2=bestsellers:p448102:product&skuId=2249779" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+    
+    </body>
+
+    <body>
+        
+        <div class="column">
+        <div class="card">
+            <img src="victrola.jpg" alt="Victrola" style="width:100%">
+            <h3>Victrola</h3>
+            <p class="price">$49.99</p>
+            <p>Portable Record Player<br> color: Turquoise</p>
+            <a style="text-decoration: none;" href="https://victrola.com/collections/record-player/products/victrola-bluetooth-suitcase-record-player-with-3-speed-turntable-vsc-550bt-trq" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+    
+    </body>
+    </div>
+
+
+
+    <body>
+      
+    <div class="row">
+        <div class="column">
+        <div class="card">
+            <img src="conspiracy.jpg" alt="Conspiracy" style="width:100%">
+            <h3>Jeffree Star</h3>
+            <p class="price">$52.00</p>
+            <p>Jeffree Star x Shane Dawson <br>Conspiracy Palette</p>
+            <a style="text-decoration: none;" href="https://jeffreestarcosmetics.com/products/conspiracy-palette-pre-order" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+        
+    </body>
+
+    <body>
+        
+        <div class="column">
+        <div class="card">
+            <img src="xmondo.png" alt="XMONDO" style="width:100%">
+            <h3>XMONDO</h3>
+            <p class="price">$29.00</p>
+            <p>Glitterati<br> Styling Serum</p>
+            <a style="text-decoration: none;" href="https://xmondohair.com/products/glitterati" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+    
+    </body>
+
+    <body>
+        
+        <div class="column">
+        <div class="card">
+            <img src="vanity.jpg" alt="vanityplanet" style="width:100%">
+            <h3>Vanity Planet</h3>
+            <p class="price">$30.49</p>
+            <p>Ultimate Skin Spa<br> Bombshell Blue</p>
+            <a style="text-decoration: none;" href="https://www.vanityplanet.com/collections/summer-sale-collection/products/ultimate-skin-spa-facial-cleansing-system-1?variant=15905327644774" target="_blank"><button>View Item</button></a>
+        </div>
+        </div>
+    
+    </body>
+
+
+
+
+    </div>
+
+</html>
